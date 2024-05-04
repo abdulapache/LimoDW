@@ -1,0 +1,14 @@
+D:\Prsonal\LimeDW\Dataaccess\bin\Debug\net6.0\Dataaccess.deps.json
+D:\Prsonal\LimeDW\Dataaccess\bin\Debug\net6.0\Dataaccess.runtimeconfig.json
+D:\Prsonal\LimeDW\Dataaccess\bin\Debug\net6.0\Dataaccess.dll
+D:\Prsonal\LimeDW\Dataaccess\bin\Debug\net6.0\Dataaccess.pdb
+D:\Prsonal\LimeDW\Dataaccess\obj\Debug\net6.0\Dataaccess.csproj.AssemblyReference.cache
+D:\Prsonal\LimeDW\Dataaccess\obj\Debug\net6.0\Dataaccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prsonal\LimeDW\Dataaccess\obj\Debug\net6.0\Dataaccess.AssemblyInfoInputs.cache
+D:\Prsonal\LimeDW\Dataaccess\obj\Debug\net6.0\Dataaccess.AssemblyInfo.cs
+D:\Prsonal\LimeDW\Dataaccess\obj\Debug\net6.0\Dataaccess.csproj.CoreCompileInputs.cache
+D:\Prsonal\LimeDW\Dataaccess\obj\Debug\net6.0\Dataaccess.dll
+D:\Prsonal\LimeDW\Dataaccess\obj\Debug\net6.0\refint\Dataaccess.dll
+D:\Prsonal\LimeDW\Dataaccess\obj\Debug\net6.0\Dataaccess.pdb
+D:\Prsonal\LimeDW\Dataaccess\obj\Debug\net6.0\Dataaccess.genruntimeconfig.cache
+D:\Prsonal\LimeDW\Dataaccess\obj\Debug\net6.0\ref\Dataaccess.dll

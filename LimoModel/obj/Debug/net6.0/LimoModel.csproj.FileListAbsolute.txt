@@ -1,0 +1,11 @@
+D:\Prsonal\LimeDW\LimoModel\bin\Debug\net6.0\LimoModel.deps.json
+D:\Prsonal\LimeDW\LimoModel\bin\Debug\net6.0\LimoModel.dll
+D:\Prsonal\LimeDW\LimoModel\bin\Debug\net6.0\LimoModel.pdb
+D:\Prsonal\LimeDW\LimoModel\obj\Debug\net6.0\LimoModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prsonal\LimeDW\LimoModel\obj\Debug\net6.0\LimoModel.AssemblyInfoInputs.cache
+D:\Prsonal\LimeDW\LimoModel\obj\Debug\net6.0\LimoModel.AssemblyInfo.cs
+D:\Prsonal\LimeDW\LimoModel\obj\Debug\net6.0\LimoModel.csproj.CoreCompileInputs.cache
+D:\Prsonal\LimeDW\LimoModel\obj\Debug\net6.0\LimoModel.dll
+D:\Prsonal\LimeDW\LimoModel\obj\Debug\net6.0\refint\LimoModel.dll
+D:\Prsonal\LimeDW\LimoModel\obj\Debug\net6.0\LimoModel.pdb
+D:\Prsonal\LimeDW\LimoModel\obj\Debug\net6.0\ref\LimoModel.dll
